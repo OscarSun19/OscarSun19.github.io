@@ -56,4 +56,4 @@ Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen
 
 ## Contact
 - [知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
-- Email: ziaoyang@brandeis.edu
+- Email: sun3@brandeis.edu
