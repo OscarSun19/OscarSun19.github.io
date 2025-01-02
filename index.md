@@ -3,9 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-I am a first year PhD student in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). Before joining Brandeis, I worked at Y Combinator China and crafted strategic presentation and financing materials for Dr. [Qi Lu](https://en.wikipedia.org/wiki/Qi_Lu_(computer_scientist)).
+I am a second-year Master’s student in the [Social Interaction and Motivation Lab](https://www.brandeis.edu/psychology/gutsell/) at Brandeis University, advised by Prof. Jennifer Gutsell.
 
-Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen University (SYSU) in 2022. During my undergraduate period I also worked as a research intern at [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://www.microsoft.com/en-us/research/people/hshum/)), supervised by Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html). Before that,  I spent two years working as a research assistant in the School of Computer Science and Engineering, Sun Yat-sen University, coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
+I graduated with a Bachelor’s degree in Psychology from Kenyon College in May 2023. During my time at Kenyon, I spent two years as a research assistant in the [Kenyon Psychological Neuroscience Lab](https://www.andrewengell.com/wiki/doku.php?id=start), working under Prof. Andrew Engell’s mentorship. In my senior year, I completed my honors thesis in the lab—a defining experience that solidified my decision to pursue research after college. I’m incredibly grateful to Prof. Engell for his support throughout my first project and for inspiring me with his passion for science, which continues to shape my approach to research.
+
+Here is my latest curriculum vitae.
 
 <!-- You can learn more details about my research through my [Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Nov. 2023).-->
 
