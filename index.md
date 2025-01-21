@@ -7,7 +7,7 @@ I am a second-year Master’s student in the [Social Interaction and Motivation 
 
 I graduated with a Bachelor’s degree in Psychology from Kenyon College in May 2023. During my time at Kenyon, I spent two years as a research assistant in the [Kenyon Psychological Neuroscience Lab](https://www.andrewengell.com/wiki/doku.php?id=start), working under Prof. Andrew Engell’s mentorship. In my senior year, I completed my honors thesis in the lab—a defining experience that solidified my decision to pursue research after college. I’m incredibly grateful to Prof. Engell for his support throughout my first project and for inspiring me with his passion for science, which continues to shape my approach to research.
 
-Here is my latest curriculum vitae.
+Here is my latest [curriculum vitae](../assets/CV_SUN_Jan2025.pdf).
 
 <!-- You can learn more details about my research through my [Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Nov. 2023).-->
 
